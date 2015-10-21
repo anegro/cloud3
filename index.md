@@ -1,6 +1,6 @@
 ---
 layout: blog
-tittle: Administración de infraestructura en la nube con OpenStack
+tittle: Introducción al Cloud Computing con OpenStack y OpenShift
 menu:
   - Unidades
 ---
