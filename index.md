@@ -62,7 +62,7 @@ tecnologías de cloud computing en el currículo de los ciclos formativos.
 |18/11/2015|**Sesión 2**<br/>Instancias 2<br/>Volúmenes|
 |25/11/2015|**Sesión 3**<br/>Redes|
 |2/12/2015|**Sesión 4**<br/>Utilización de línea de comandos (CLI)<br/>OpenShift 1|
-|9/12/2015|**Sesión 5**<br/>OpenShift 2</br/>Cloud computing en la educación y en la empresa. Tarea final|
+|9/12/2015|**Sesión 5**<br/>OpenShift 2<br/>Cloud computing en la educación y en la empresa. Tarea final|
 
 ###Licencia
 
