@@ -19,11 +19,11 @@ menu:
 
 ###Instancias 
 
-* [Conceptos previos](conceptos_previos)
-* [Trabajo con claves ssh](claves_ssh)
-* [Pasos previos](previos)
-* [Creación de instancias a partir de una imagen](instancias1)
-* [Operaciones sobre la instancia](instancias2)
-* [Administración de imágenes](imagenes)
-* [Aplicación didáctica](aula1)
-* [Ejercicios](ejercicios1)
+* [Conceptos previos](../u2/conceptos_previos)
+* [Trabajo con claves ssh](../u2/claves_ssh)
+* [Pasos previos](../u2/previos)
+* [Creación de instancias a partir de una imagen](../u2/instancias1)
+* [Operaciones sobre la instancia](../u2/instancias2)
+* [Administración de imágenes](../u2/imagenes)
+* [Aplicación didáctica](../u2/aula1)
+* [Ejercicios](../u2/ejercicios1)
