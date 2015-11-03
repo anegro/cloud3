@@ -5,15 +5,12 @@ menu:
   - Unidades
 ---
 
-###Redes
+###OpenStack con CLI
 
-* [Conceptos previos de redes](conceptos_previos)
-* [Creación de una red privada y una subred asociada](red1)
-* [Creación de un router, conectarlo a la red externa y a la red anterior](router1)
-* [Creación de una nueva instancia en la nueva red](instancia1)
-* [Eliminación de la infraestructura de red creada](borrar)
-* [Instancias con varias interfaces](interfaces)
-* [Enlaces sobre redes](enlaces)
-* [Balanceador de carga](balanceador)
-* [Ejercicio avanzado de redes con CLI](router2)
-* [Ejercicios](ejercicios1)
+* [Conceptos previos](curso/u5/previos)
+* [Gestión de imágenes con glance](curso/u5/imagenes)
+* [Gestión de instancias con nova](curso/u5/instancia)
+* [Gestión de volúmenes con nova y cinder](curso/u5/volumen)
+* [Gestión de redes con neutron](curso/u5/red)
+* [Aplicación didáctica](aula)
+* [Ejercicios](ejercicios)
