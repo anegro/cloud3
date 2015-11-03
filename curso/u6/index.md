@@ -22,8 +22,8 @@ menu:
 
 ###Tareas final del curso
 
-* [OpenStack](tarea_openstack)
-* [OpenShift](tarea_openshift)
+* [OpenStack](../u7/tarea_openstack)
+* [OpenShift](../u7/tarea_openshift)
 
 
 
