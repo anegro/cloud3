@@ -1,10 +1,9 @@
 ---
 layout: blog
-tittle: Introducción al Cloud Computing con OpenStack
+tittle: Introducción al Cloud Computing con OpenStack y OpenShift
 menu:
   - Unidades
 ---
-## Introducción al Cloud Computing con OpenStack y OpenShift
 
 * [Objetivos, contenidos y calendario](curso)
 

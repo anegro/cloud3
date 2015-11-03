@@ -1,6 +1,6 @@
 ---
 layout: blog
-tittle: Introducción a PaaS. OpenShift
+tittle: Introducción al Cloud Computing con OpenStack y OpenShift
 menu:
   - Unidades
 ---
