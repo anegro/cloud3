@@ -1,11 +1,11 @@
 ---
 layout: blog
-tittle: Introducción al Cloud Computing con OpenStack
+tittle: Introducción al Cloud Computing con OpenStack y OpenShift
 menu:
   - Unidades
 ---
 
-###Instancias 
+###OpenStack Instancias 
 
 * [Trabajo con instantáneas y copias de seguridad](instantaneas)
 * [Redimensión de instancias](redimension)
@@ -15,7 +15,7 @@ menu:
 * [Aplicación didáctica](aula2)
 * [Ejercicios](ejercicios2)
 
-###Volúmenes
+###OpenStack Volúmenes
 
 * [Conceptos previos de volúmenes](../u3/conceptos_previos)
 * [Creación de volúmenes, asociación a instancias](../u3/volumen)

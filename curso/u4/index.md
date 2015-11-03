@@ -5,7 +5,7 @@ menu:
   - Unidades
 ---
 
-###Redes
+###OpenStack Redes
 
 * [Conceptos previos de redes](conceptos_previos)
 * [Creación de una red privada y una subred asociada](red1)

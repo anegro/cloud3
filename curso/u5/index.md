@@ -14,7 +14,7 @@ menu:
 * [Gestión de redes con neutron](red)
 * [Ejercicios](ejercicios)
 
-###Swift
+###OpenStack Swift
 
 * [Presentación Swift](presentacion_objetos)
 * [Introducción a Swift](swift)

@@ -16,7 +16,7 @@ menu:
 * [Presentación: Introducción a StackOps Cirrusflex](presentacion_stackops)
 * [Presentación: Introducción a OpenShift](presentacion_openshift.html)
 
-###Instancias 
+###OpenStack Instancias 
 
 * [Conceptos previos](../u2/conceptos_previos)
 * [Trabajo con claves ssh](../u2/claves_ssh)
