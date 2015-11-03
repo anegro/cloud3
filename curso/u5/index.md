@@ -7,10 +7,10 @@ menu:
 
 ###OpenStack con CLI
 
-* [Conceptos previos](curso/u5/previos)
-* [Gestión de imágenes con glance](curso/u5/imagenes)
-* [Gestión de instancias con nova](curso/u5/instancia)
-* [Gestión de volúmenes con nova y cinder](curso/u5/volumen)
-* [Gestión de redes con neutron](curso/u5/red)
+* [Conceptos previos](previos)
+* [Gestión de imágenes con glance](imagenes)
+* [Gestión de instancias con nova](instancia)
+* [Gestión de volúmenes con nova y cinder](volumen)
+* [Gestión de redes con neutron](red)
 * [Aplicación didáctica](aula)
 * [Ejercicios](ejercicios)
