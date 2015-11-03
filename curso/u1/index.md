@@ -24,4 +24,4 @@ menu:
 * [Pasos previos](previos)
 * [Creación de instancias a partir de una imagen](instancias1)
 * [Operaciones sobre la instancia](instancias2)
-* [Administración de imágenes](curso/u2/imagenes)
+* [Administración de imágenes](imagenes)
