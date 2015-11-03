@@ -13,5 +13,17 @@ menu:
 * [Vídeo: Introducción a OpenShift](https://www.youtube.com/watch?v=bmbGfyNKCMc)
 * [Enlaces](enlaces)
 
+###Cloud Computing en educación
+
+* [Cloud computing en el aula](../u7/presentacion_cloud_aula.html)
+* [Alternativas al cloud privado de IaaS](../u7/presentacion_iaas_publico)
+* [Implantación de una nube privada](../u7/presentacion_implantacion.html)
+* [Introducción a la instalación de OpenStack](../u7/presentacion_instalacion_openstack.html)
+
+###Tareas final del curso
+
+* [OpenStack](tarea_openstack)
+* [OpenShift](tarea_openshift)
+
 
 
