@@ -16,5 +16,5 @@ menu:
 
 ###Swift
 
-* [Presentación Swift](curso/u9/presentacion_objetos)
-* [Introducción a Swift](curso/u9/swift)
+* [Presentación Swift](presentacion_objetos)
+* [Introducción a Swift](swift)
