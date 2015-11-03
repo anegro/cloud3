@@ -5,22 +5,15 @@ menu:
   - Unidades
 ---
 
-###Instancias 
+###Redes
 
-* [Trabajo con instantáneas y copias de seguridad](instantaneas)
-* [Redimensión de instancias](redimension)
-* [Rescate de instancias](rescate)
-* [Herramientas específicas de Cirrusflex](cirrusflex-tools)
-* [Enlaces sobre instancias](enlaces)
-* [Aplicación didáctica](aula2)
-* [Ejercicios](ejercicios2)
-
-###Volúmenes
-
-* [Conceptos previos de volúmenes](../u3/conceptos_previos)
-* [Creación de volúmenes, asociación a instancias](../u3/volumen)
-* [Creación de instancia ejecutadas sobre volúmenes](../u3/instancias_volumen)
-* [Enlaces sobre volúmenes](../u3/enlaces2)
-* [Aplicación didáctica](../u3/aula)
-* [Ejercicios](../u3/ejercicios)
-
+* [Conceptos previos de redes](curso/u4/conceptos_previos)
+* [Creación de una red privada y una subred asociada](curso/u4/red1)
+* [Creación de un router, conectarlo a la red externa y a la red anterior](curso/u4/router1)
+* [Creación de una nueva instancia en la nueva red](curso/u4/instancia1)
+* [Eliminación de la infraestructura de red creada](curso/u4/borrar)
+* [Instancias con varias interfaces](curso/u4/interfaces)
+* [Enlaces sobre redes](curso/u4/enlaces)
+* [Balanceador de carga](curso/u6/balanceador)
+* [Ejercicio avanzado de redes con CLI](curso/u6/router2)
+* [Ejercicios](ejercicios1)
