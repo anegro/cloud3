@@ -2,7 +2,7 @@
 layout: blog
 tittle: Introducción al Cloud Computing con OpenStack
 menu:
-  - Unidad 1
+  - Unidades
 ---
 ## Introducción al Cloud Computing con OpenStack y OpenShift
 
@@ -25,3 +25,5 @@ menu:
 * [Creación de instancias a partir de una imagen](instancias1)
 * [Operaciones sobre la instancia](instancias2)
 * [Administración de imágenes](imagenes)
+* [Aplicación didáctica](aula1)
+* [Ejercicios](ejercicios1)
