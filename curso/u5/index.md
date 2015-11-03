@@ -12,5 +12,4 @@ menu:
 * [Gestión de instancias con nova](instancia)
 * [Gestión de volúmenes con nova y cinder](volumen)
 * [Gestión de redes con neutron](red)
-* [Aplicación didáctica](aula)
 * [Ejercicios](ejercicios)
