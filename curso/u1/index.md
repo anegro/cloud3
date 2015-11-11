@@ -5,8 +5,6 @@ menu:
   - Unidades
 ---
 
-* [Objetivos, contenidos y calendario](curso)
-
 ###Introducción al Cloud Computing. OpenStack y OpenShift
 
 * [Presentación: Introducción al Cloud Computing](presentacion)
