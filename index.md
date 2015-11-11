@@ -16,9 +16,6 @@ El objetivo general del curso es la formación del profesorado en el despliegue,
 configuración y administración de servidores virtuales en la nube, de modo que
 permita al profesorado la inclusión de estas competencias al alumnado. 
 
-El curso está alojado en el
-[Aula Virtual de Formación del Profesorado de la Consejería de Educación](). 
-
 Los ponentes, [José Domingo Muñoz Rodríguez](http://www.josedomingo.org) y
 [Alberto Molina Coballes](http://albertomolina.wordpress.com), profesores de la
 Familia Profesional de Informática en el
