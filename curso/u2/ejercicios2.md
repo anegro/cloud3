@@ -28,14 +28,14 @@ y comprueba desde un navegador que ya tiene el servidor web instalado.
 
 ## Ejercicio 2: Redimensión de instancias
 
-1. Crea una instancia de tipo **ssd.XXXS**.
+1. Crea una instancia de tipo **local.XXXS**.
 
 2. Comprueba que tienes 1 GiB de memoria RAM y un disco raíz de 16 GiB:
 <pre>
 sudo free -l
 sudo fdisk -l
 </pre>
-3. Redimensiona la instancia a un nu tipo **ssd.XXS**. (Recuerda que cuando
+3. Redimensiona la instancia a un nu tipo **local.XXS**. (Recuerda que cuando
 aparezca el estado **VERIFY_RESIZE**, tienes que seleccionar la acción
 **Confirmar redimensionado**). 
 
