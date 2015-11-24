@@ -15,6 +15,7 @@ Tienes que comprobar /etc/resolv.conf (o fichero equivalente) y comprobar que ti
 
 	nameserver 212.231.100.50
 	nameserver 212.231.128.127
+	
 ###Encontrando los hostnames de mis instancias
 
 En la plataforma StackOps, cada instancia tiene un FQDN interno formado por:
