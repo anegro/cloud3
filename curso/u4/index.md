@@ -14,6 +14,7 @@ menu:
 * [Eliminación de la infraestructura de red creada](borrar)
 * [Instancias con varias interfaces](interfaces)
 * [Enlaces sobre redes](enlaces)
+* [DNS como servicio](dns)
 * [Balanceador de carga](balanceador)
 * [Ejercicio avanzado de redes con CLI](router2)
 * [Ejercicios](ejercicios1)
