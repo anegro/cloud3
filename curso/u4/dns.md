@@ -44,4 +44,8 @@ Primero necesitamos comprar un dominio. A continuación, tendrás que configurar
 
 esta configuración debería estar disponible en (hasta) 24h desde el cambio.
 
+Finalmente tienes que crear tu domino en el 'DNS Manager' del Portal:
+
+![dns](https://cirrusflex.zendesk.com/hc/es/article_attachments/200781481/createdomain.png)
+
 Llegado a este punto deberías ser capaz de acceder a tu dominio. Para información detallada tenemos el siguiente [post](https://docs.stackops.net/dnsaas-plugin-en.html). 
