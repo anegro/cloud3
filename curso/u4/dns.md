@@ -15,7 +15,7 @@ Tienes que comprobar /etc/resolv.conf (o fichero equivalente) y comprobar que ti
 
 	nameserver 212.231.100.50
 	nameserver 212.231.128.127
-	
+
 ###Encontrando los hostnames de mis instancias
 
 En la plataforma StackOps, cada instancia tiene un FQDN interno formado por:
@@ -35,4 +35,13 @@ Por ejemplo, si nuestra instancia se llama "test" y nuestro id de tenant es "012
 
     test.0123456789abcdeffedcba9876543210.stackops.int
 
-## DNS como servicio para FQDN externo
+## DNS como servicio para FQDN público
+
+Primero necesitamos comprar un dominio. A continuación, tendrás que configurar tus servidores de nombres apuntando a:
+
+* ns1.mascloud.es
+* ns2.mascloud.es
+
+esta configuración debería estar disponible en (hasta) 24h desde el cambio.
+
+Llegado a este punto deberías ser capaz de acceder a tu dominio. Para información detallada tenemos el siguiente [post](https://docs.stackops.net/dnsaas-plugin-en.html). 
