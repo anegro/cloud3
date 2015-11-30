@@ -13,6 +13,7 @@ menu:
 * [Gestión de volúmenes con nova y cinder](volumen)
 * [Gestión de redes con neutron](red)
 * [Ejercicios](ejercicios)
+* [Creación automática de un escenario](demofinal)
 
 ###OpenStack Swift
 
