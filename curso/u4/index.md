@@ -7,6 +7,7 @@ menu:
 
 ###OpenStack Redes
 
+* [Introducción a la virtualización de redes](intro)
 * [Conceptos previos de redes](conceptos_previos)
 * [Creación de una red privada y una subred asociada](red1)
 * [Creación de un router, conectarlo a la red externa y a la red anterior](router1)
