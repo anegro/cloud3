@@ -28,7 +28,7 @@ determinado y se fusionan (*merge*) cuando se termina.
 
 2. Nuestro curso esta almacenado en un repositorio en GitHub, si quieres bajarlo sólo tienes que clonarlo:
 
-        $ git clone https://github.com/iesgn/cloud.git
+        $ git clone https://github.com/iesgn/cloud3.git
         
 3. Si queremos actualizar nuestro repositorio local con los cambios del repositorio remoto
 
