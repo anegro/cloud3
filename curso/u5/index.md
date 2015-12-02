@@ -19,3 +19,9 @@ menu:
 
 * [Presentación Swift](presentacion_objetos)
 * [Introducción a Swift](swift)
+
+###OpenStack por dentro
+
+* [Nova con KVM](kvm)
+* [Cinder con LVM/iSCSI](almacenamiento)
+* [Neutron con OpenvSwitch](openvswith)
