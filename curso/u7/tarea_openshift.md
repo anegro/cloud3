@@ -16,4 +16,4 @@ menu:
 * Usa git para subir los ficheros del CMS al repositorio remoto de openshift.
 * Configura de manera adecuada el CMS.
 * Una vez configurado, accede a la aplicación usando la URL adecuada.
-* Muestra la lista de aplicaciones usando el cliente rhc.
+
