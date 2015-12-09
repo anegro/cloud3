@@ -9,7 +9,7 @@ menu:
 
 Realiza un documento o un vídeo donde describes los pasos para realizar los siguientes ejercicios:
 
-1. Desarrolla el siguiente escenario usando la aplicación web Cirrusflex:
+1. Desarrolla el siguiente escenario usando la aplicación web Cirrusflex/Horizon:
 
 	* Crea una red interna con direccionamiento 192.168.0.0/24.
 	* Crea un router que conecta la red interna con la red pública.
