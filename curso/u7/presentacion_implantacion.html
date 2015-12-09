@@ -85,6 +85,16 @@ tema: white
 </section>
 <section>
   <section>
+    <h2>¿Rack o torre?</h2>
+    <ul>
+      <li>La forma de los equipos de torre los hace muy ineficaces desde el punto de vista de la circulación de aire</li>
+      <li>Los servidores en rack están optimizados para la refrigeración por aire</li>
+      <li>Hay que considerar la eficiencia de la(s) fuente(s) de alimentación</li>
+      <li>¿Tenemos armario de servidores?</li>
+      <li>Habitualmente los servidores torre consumen más que los equivalentes en rack</li>
+    </ul>
+  </section>
+  <section>
     <h2>Construyendo una nube ...</h2>
   </section>
   <section>
@@ -105,20 +115,44 @@ tema: white
       <li>Intel Xeon Processor E3-1220 v3 3.10GHz (4 cores)</li>
       <li>32 GiB de RAM DDR3</li>
       <li>2 HD SATA 500 GiB</li>
-      <li>Precio estimado: 1400 €</li>
+      <li>Precio estimado: 1400 $</li>
     </ul>
+    <p>Adecuado como nodo único o nodo controlador</p>
+    <p><small>Precios obtenido de <a href="http://www.thinkmate.com/">thinkmate.com</a></small></p>
   </section>
   <section>
     <h2>Ejemplo 2: Supermicro 6017B-URF</h2>
     <ul>
-      <li>Intel® Xeon® Processor E5-2420 v2 2.20GHz (6 cores/12
+      <li>Intel® Xeon® Processor E5-2403 v2 1.80GHz (4 cores/8
 	hilos)</li>
       <li>96 GiB de RAM registrada DDR3</li>
       <li>2 HD SATA 1 TiB</li>
-      <li>Precio estimado: 3500 €</li>
+      <li>Precio estimado: 2840 $</li>
     </ul>
-    <p><small>Precios obtenidos de <a href="http://www.thinkmate.com/">thinkmate.com</a></small></p>
-
+    <p>Adecuado como nodo único o nodo de computación</p>
+    <p><small>Precio obtenido de <a href="http://www.thinkmate.com/">thinkmate.com</a></small></p>
+  </section>
+  <section>
+    <h2>Ejemplo 3: Dell r220</h2>
+    <ul>
+      <li>AMD Opteron 4334, 6C, 3.1GHz (6 cores)</li>
+      <li>8 GiB de RAM registrada DDR3</li>
+      <li>2 HD SATA 1 TiB</li>
+      <li>Precio estimado: 1000 €</li>
+    </ul>
+    <p>Adecuado como nodo controlador o de red</p>
+    <p><small>Precio obtenido de <a href="http://www.dell.es/">dell.es</a></small></p>
+  </section>
+  <section>
+    <h2>Ejemplo 4: Dell r730</h2>
+    <ul>
+      <li>Intel® Xeon® E5-2609 v3 1.9GHz (6 cores/12 hilos)
+      <li>128 GiB de RAM registrada DDR3</li>
+      <li>1 HD SATA 1 TiB</li>
+      <li>Precio estimado: 3400 €</li>
+    </ul>
+    <p>Adecuado como nodo único o nodo de computación</p>
+    <p><small>Precio obtenido de <a href="http://www.dell.es/">dell.es</a></small></p>
   </section>
   <section>
     <h2>2 o 3 nodos</h2>
@@ -131,6 +165,10 @@ tema: white
     </ul>
   </section>
   <section>
+    <h2>1 Controlador + n Computación</h2>
+    <img src="img/esquema1.png" alt="esquema 1"/>
+  </section>
+  <section>
     <h2>Entre 4 y 6 nodos</h2>
     <ul>
       <li>1 nodo controlador + almacenamiento</li>
@@ -139,12 +177,25 @@ tema: white
     </ul>
   </section>
   <section>
+    <h2>1 Controlador + 1 Red + n Computación</h2>
+    <img src="img/esquema2.png" alt="esquema 2"/>
+  </section>
+  <section>
+    <h2>1 Controlador + 1 Red + n Computación + Almacenamiento</h2>
+    <img src="img/esquema3.png" alt="esquema 3"/>
+  </section>
+  <section>
     <h2>Alta disponibilidad</h2>
     <ul>
-      <li>2 nodos controladores</li>
-      <li>2 nodos de red</li>
-      <li>3 nodos de almacenamiento</li>
-      <li>4 o más nodos de computación</li>
+      <li>Eliminación de SPOF:
+	<ul>
+	  <li>Duplicación de los nodos de red y controlador</li>
+	  <li>Duplicación de los dispositivos de red</li>
+      </ul></li>
+      <li>Servicios Stateless o Stateful</li>
+      <li>Inclusión de pacemaker y corosync</li>
+      <li>Almacenamiento distribuido</li>
+      <li>Migración en vivo de instancias</li>
     </ul>
   </section>
 </section>    
